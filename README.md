@@ -1,4 +1,4 @@
-# 이승욱 | CV & Research Portfolio
+<img width="1279" height="877" alt="프로그램등록완료_1팀-1" src="https://github.com/user-attachments/assets/a355b37b-dc1b-4d3c-9c41-8fc319fa1df6" /># 이승욱 | CV & Research Portfolio
 
 
 ## 1. Profile
@@ -62,7 +62,7 @@
 | 저작물의 종류     | 컴퓨터프로그램저작물 > 응용프로그램                                                  |
 | 창작연월일       | 2026년 06월 12일                                                        |
 | 등록연월일       | 2026년 06월 23일                                                        |
-![Uploading 프로그램등록완료_1팀-1.png…]()
+<img width="1279" height="877" alt="프로그램등록완료_1팀-1" src="https://github.com/user-attachments/assets/b1fbda25-86f8-492a-9551-24b8864b0957" />
 
 
 ---
