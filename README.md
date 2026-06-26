@@ -48,7 +48,6 @@
 
 * **설명**: 본 프로그램은 단일 RGB-D 영상으로 생성된 부정확한 3D 객체 모델을 3D Gaussian Splatting(3DGS) 기반의 형상-자세 공동 정제를 통해 개선하여, 객체의 6D pose 추정 정확도를 높이는 training-free 후처리 소프트웨어이다. 기존 자세 추정기와 별도의 재학습 없이 연동 가능하며, 다양한 평가 시퀀스에서 안정적이고 일관된 자세 추정 성능 향상을 제공한다.
 * 
-<img width="1279" height="877" alt="프로그램등록완료_1팀-1" src="https://github.com/user-attachments/assets/1cf3fa2b-6386-47fe-bf5c-4bb8009ff69b" />
 <img width="748" height="895" alt="프로그램등록완료메일_1팀" src="https://github.com/user-attachments/assets/8a0e3f1e-ece9-4318-bb19-e776701812f5" />
 
 ---
