@@ -1,4 +1,4 @@
-<img width="1279" height="877" alt="프로그램등록완료_1팀-1" src="https://github.com/user-attachments/assets/a355b37b-dc1b-4d3c-9c41-8fc319fa1df6" /># 이승욱 | CV & Research Portfolio
+# 이승욱 | CV & Research Portfolio
 
 
 ## 1. Profile
