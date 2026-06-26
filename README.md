@@ -219,7 +219,7 @@
 
 | 번호 | 논문 제목                                                                | 저자                 | 연구 주제               | 상태         | 연도   |
 | -- | -------------------------------------------------------------------- | ------------------ | ------------------- | ---------- | ---- |
-| 1  | 6D Object Pose Estimation via 3DGS-based Joint Shape-Pose Refinement | 곽연규, 최동혁, 송영집, 이승욱 | 3DGS 기반 6D 객체 자세 추정 | ACCV 제출 예정 | 2026 |
+| 1  | 6D Object Pose Estimation via 3DGS-based Joint Shape-Pose Refinement | 곽연규, 최동혁, 송영집, 이승욱 | 3DGS 기반 6D 객체 자세 추정 | 리뷰 및 코드분석 완료 | 2026 |
 
 ---
 
