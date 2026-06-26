@@ -1,3 +1,4 @@
+<img width="748" height="895" alt="프로그램등록완료메일_1팀" src="https://github.com/user-attachments/assets/7656366b-8c58-4b60-a558-da70a8ed80e1" />
 # 이승욱 | CV & Research Portfolio
 
 
