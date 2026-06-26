@@ -1,5 +1,6 @@
 # 이승욱 | CV & Research Portfolio
 
+
 ## 1. Profile
 
 **이름**: 이승욱
