@@ -1,4 +1,3 @@
-<img width="748" height="895" alt="프로그램등록완료메일_1팀" src="https://github.com/user-attachments/assets/7656366b-8c58-4b60-a558-da70a8ed80e1" />
 # 이승욱 | CV & Research Portfolio
 
 
@@ -26,6 +25,7 @@
 | 대리인 성명 | 곽연규                                             |
 | 발명자 성명 | 정종필, 곽연규, 최동혁, 이승욱, 송영집                         |
 | 발명의 명칭 | 3차원 가우시안 스플래팅 기반 형상-자세 공동 정제를 통한 6D 객체 자세 추정 방법 |
+<img width="1565" height="57" alt="프로그램등록GSL_1팀-1" src="https://github.com/user-attachments/assets/88352a47-8bde-4a99-8340-c7dbddab1b3c" />
 
 ---
 
@@ -47,6 +47,9 @@
   *(3DGS*기반*형상-자세 공동 정제를 통한 6D 객체 자세 추정 프로그램)*
 
 * **설명**: 본 프로그램은 단일 RGB-D 영상으로 생성된 부정확한 3D 객체 모델을 3D Gaussian Splatting(3DGS) 기반의 형상-자세 공동 정제를 통해 개선하여, 객체의 6D pose 추정 정확도를 높이는 training-free 후처리 소프트웨어이다. 기존 자세 추정기와 별도의 재학습 없이 연동 가능하며, 다양한 평가 시퀀스에서 안정적이고 일관된 자세 추정 성능 향상을 제공한다.
+* 
+<img width="1279" height="877" alt="프로그램등록완료_1팀-1" src="https://github.com/user-attachments/assets/1cf3fa2b-6386-47fe-bf5c-4bb8009ff69b" />
+<img width="748" height="895" alt="프로그램등록완료메일_1팀" src="https://github.com/user-attachments/assets/8a0e3f1e-ece9-4318-bb19-e776701812f5" />
 
 ---
 
@@ -60,6 +63,7 @@
 | 저작물의 종류     | 컴퓨터프로그램저작물 > 응용프로그램                                                  |
 | 창작연월일       | 2026년 06월 12일                                                        |
 | 등록연월일       | 2026년 06월 23일                                                        |
+![Uploading 프로그램등록완료_1팀-1.png…]()
 
 ---
 
